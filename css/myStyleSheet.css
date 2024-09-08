@@ -17,7 +17,7 @@ ul{
 
 .main-title{
     font-size: 3em;
-    color: teal;
+    color: pink;
 }
 
 
@@ -44,7 +44,7 @@ ul{
 .formItems button{
     font-size: 24px;
     border: none;
-    background-color: teal;
+    background-color: pink;
     color: white;
     padding: 14px 30px;;
 }
@@ -52,7 +52,7 @@ ul{
 .formItems button:hover{
     cursor: pointer;
     background: white;
-    color: teal;
+    color: pink;
 }
 
 .formItems button:active{
