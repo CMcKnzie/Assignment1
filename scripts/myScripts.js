@@ -14,7 +14,7 @@ function start(){
   if (countDownSecs == -1){
     stop();
     document.getElementById("timerDisplay").innerHTML = "0";
-    alert("Timer Finished!")
+    alert("Timer Done!")
   }
 }
 
